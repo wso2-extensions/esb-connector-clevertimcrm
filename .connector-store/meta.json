@@ -4,7 +4,7 @@
     "category": "Customer Relationship Management",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Clevertim+CRM+Connector",
     "description": "The Clevertim CRM connector allows you to access the Clevertim CRM REST API through the WSO2 ESB. Clevertim CRM is easy to learn and use, web based CRM and contact manager for small businesses.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
